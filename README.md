@@ -1,5 +1,6 @@
-# Hello world javascript action
+![example workflow](https://github.com/Konijima/JS-Lua-Checker-Action/actions/workflows/main.yml/badge.svg)  
 
+# Hello world javascript action
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
 
 ## Inputs

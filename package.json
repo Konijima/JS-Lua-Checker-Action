@@ -1,0 +1,19 @@
+{
+  "name": "js-lua-checker-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konijima/JS-Lua-Checker-Action.git"
+  },
+  "author": "Konijima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Konijima/JS-Lua-Checker-Action/issues"
+  },
+  "homepage": "https://github.com/Konijima/JS-Lua-Checker-Action#readme"
+}
